@@ -1,0 +1,5 @@
+{
+  "name": "The Mendoza Sales Training",
+  "description": "Professional Sales Training Simulator for The Mendoza Law Firm",
+  "requestFramePermissions": ["microphone"]
+}
